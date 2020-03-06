@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Farhan_UTS</string>
+    <string-array name="date">
+        <item>Date</item>
+        <item>Date 01</item>
+        <item>Date 02</item>
+        <item>Date 03</item>
+    </string-array>
+</resources>
